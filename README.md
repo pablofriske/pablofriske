@@ -1,7 +1,9 @@
-- 👋 Olá eu sou pablofriske
-- 👀 estou interessado em aprender programaçâo
-- 🌱 estou aprendendo JavaScript e Scratch
-
+# Olá  👋 
+- Eu sou pablofriske
+- estou interessado em aprender programaçâo
+- Estudante do colégio Pio XII
+- estou aprendendo JavaScript e Scratch
+ 
 
 
 <!---
